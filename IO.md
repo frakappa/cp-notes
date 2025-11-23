@@ -32,3 +32,6 @@ while (cin >> x) {
 	// ...
 }
 ```
+
+References:
+- [CPH](https://usaco.guide/CPH.pdf#section.1.2)
