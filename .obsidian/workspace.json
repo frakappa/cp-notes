@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f7a5e80d6b194f90",
+        "id": "e3f1c3b28eb23169",
         "type": "tabs",
         "children": [
           {
-            "id": "dc75e13a988b69f2",
+            "id": "93958eb89125a1e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,8 +184,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "dc75e13a988b69f2",
+  "active": "93958eb89125a1e4",
   "lastOpenFiles": [
+    "_includes/head_custom.html",
+    "_includes",
+    "Nearest.md",
+    "Monotonic Stack.md",
     "_config.yml",
     "Nearest Smaller Value.md",
     "IO.md",
@@ -193,7 +197,6 @@
     "Number of Divisors.md",
     "Binary Search.md",
     "Debugging.md",
-    "Monotonic Stack.md",
     "Integers.md",
     "Practicing.md",
     "modular arithmetic.md",
