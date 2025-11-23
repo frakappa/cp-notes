@@ -18,3 +18,6 @@ In practice, $d(n)$ is at most a few hundreds for $n \le 2 \cdot 10^5$ and algor
 
 Problems:
 - [Nearly Shortest Repeating Substring](https://codeforces.com/problemset/problem/1950/E)
+
+References:
+- [Divisor function](https://en.wikipedia.org/wiki/Divisor_function)
