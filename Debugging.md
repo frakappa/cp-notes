@@ -1,4 +1,4 @@
-- Is [[IO]] correct?
+- Is [IO](IO.md) correct?
 - Check edge cases.
 - Read the problem statement again.
 - Read the code again.
