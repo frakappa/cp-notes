@@ -1,1 +1,4 @@
 remote_theme: just-the-docs/just-the-docs
+
+nav_enabled: true
+color_scheme: dark
