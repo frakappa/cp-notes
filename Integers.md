@@ -8,7 +8,7 @@ Be careful with using `long long` where `int` is still used, it may lead to unex
 
 The g++ compiler also provides a **128-bit** integer type, `__int128_t`, but it's not available in all contest systems.
 
-When working with really huge numbers, the problem may ask to give the output **modulo** a certain value, check [[modular arithmetic|Modular Arithmetic]].
+When working with really huge numbers, the problem may ask to give the output **modulo** a certain value, check [[Modular Arithmetic|modular arithmetic]].
 
 References:
 - [CPH](https://usaco.guide/CPH.pdf#section.1.3)
