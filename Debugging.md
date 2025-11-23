@@ -18,7 +18,7 @@ It may be useful to check the value of certain variables/expressions. The follow
 #define dbg(x) cout << #x << " = " << (x) << "\n";
 ```
 
-It may also be useful to use `assert(condition)`, to assert the a condition `condition` holds. If it doesn't, the program is terminated with a runtime error.
+It may also be useful to use `assert(condition)`, to assert that a condition `condition` holds. If it doesn't, the program is terminated with a runtime error.
 
 References:
 - [USACO guide](https://usaco.guide/general/debugging-checklist)
