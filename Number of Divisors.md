@@ -1,4 +1,4 @@
-The _divisor_ function or _tau_ function counts the number of divisors of an integer.
+The _divisor_ function function counts the number of divisors of an integer.
 
 [Wigert](https://en.wikipedia.org/wiki/Carl_Severin_Wigert) showed that:
 
@@ -6,9 +6,9 @@ $$
 \limsup_{n \to \infty} \frac{\log d(n)}{\log n / \log \log n} = \log 2
 $$
 
-The number of divisors of $n$, written $d(n)$, is very small compared to $n$.
+Basically, the number of divisors of $n$, written $d(n)$, is very small compared to $n$.
 
-It's worst case is roughly:
+Its worst case is roughly:
 
 $$
 d(n) \lesssim \exp(O(\frac{\log n}{\log \log n}))

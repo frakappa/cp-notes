@@ -1,5 +1,5 @@
 {
-  "textFontFamily": "Liberation Serif",
+  "textFontFamily": "FreeSerif",
   "baseFontSize": 18,
-  "monospaceFontFamily": "FreeMono"
+  "monospaceFontFamily": "Iosevka Custom"
 }
