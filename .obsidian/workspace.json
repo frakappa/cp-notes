@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practicing.md",
+                "file": "practicing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Practicing"
+              "title": "practicing"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "practicing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "practicing"
             }
           }
         ],
@@ -200,18 +200,18 @@
   },
   "active": "0bb0265f459a54b2",
   "lastOpenFiles": [
-    "_config.ymlSTtiwc.bck",
-    "Practicing.md",
+    "number-of-divisors.md",
+    "nearest-smaller-value.md",
+    "monotonic-stack.md",
+    "modular-arithmetic.md",
+    "io.md",
+    "integers.md",
     "index.md",
+    "debugging.md",
+    "binary-search.md",
+    "practicing.md",
+    "_config.ymlSTtiwc.bck",
     "_config.ymlXgU7zs.bck",
-    "Number of Divisors.md",
-    "Nearest Smaller Value.md",
-    "Monotonic Stack.md",
-    "Modular Arithmetic.md",
-    "IO.md",
-    "Integers.md",
-    "Debugging.md",
-    "Binary Search.md",
     "Modular.md",
     "Integer.md",
     "_config.ymlc4H37g.bck",
@@ -222,7 +222,6 @@
     "Untitled 1.base",
     "Untitled.base",
     "Gemfile",
-    "_config.ymlfrJLcX.bck",
     "Nearest.md",
     "modular arithmetic.md",
     "Welcome.md"

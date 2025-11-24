@@ -7,7 +7,7 @@ A monotonic stack is a stack that maintains its elements in a fixed order (eithe
 
 This way, the stack stays ordered and, since each element is pushed and popped at most once, the overall algorithm runs in linear time.
 
-A monotonic stack can be used to solve problems such as finding the [nearest smaller value](Nearest%20Smaller%20Value) in linear time.
+A monotonic stack can be used to solve problems such as finding the [nearest smaller value](nearest-smaller-value.md) in linear time.
 
 References:
 - [GFG](https://www.geeksforgeeks.org/dsa/introduction-to-monotonic-stack-2/)

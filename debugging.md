@@ -3,7 +3,7 @@ title: Debugging
 ---
 # Debugging
 
-- Is [IO](IO) correct?
+- Is [IO](io.md) correct?
 - Check edge cases.
 - Read the problem statement again.
 - Read the code again.
@@ -13,7 +13,7 @@ title: Debugging
 	- Uninitialized variables.
 	- Not returning from non-`void` functions.
 	- Array out-of-bounds.
-	- [Integer](Integers.md) overflow.
+	- [Integer](integers.md) overflow.
 - Add assertions.
 - Prove the solution.
 
