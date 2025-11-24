@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practicing.md",
+                "file": "Binary Search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Practicing"
+              "title": "Binary Search"
             }
           }
         ]
@@ -185,28 +185,28 @@
   },
   "active": "f6e16b7bc60d9caf",
   "lastOpenFiles": [
+    "_config.ymlc4H37g.bck",
+    "Debugging.md",
+    "Integers.md",
+    "IO.md",
+    "Modular Arithmetic.md",
+    "Monotonic Stack.md",
+    "Nearest Smaller Value.md",
+    "Number of Divisors.md",
+    "Practicing.md",
+    "_config.ymls7LGlE.bck",
     "_config.ymllsUYwx.bck",
     "_config.yml6xv25F.bck",
     "_config.ymldpgpdD.bck",
-    "Number of Divisors.md",
-    "Nearest Smaller Value.md",
-    "Monotonic Stack.md",
-    "Modular Arithmetic.md",
-    "Integers.md",
     "Modular.md",
-    "Debugging.md",
-    "IO.md",
     "Binary Search.md",
-    "Practicing.md",
     "Untitled 1.base",
     "Untitled.base",
     "Gemfile",
     "_config.ymlfrJLcX.bck",
     "_config.ymlbjQEiI.bck",
     "_includes/head_custom.html",
-    "_includes",
     "Nearest.md",
-    "_config.yml",
     "modular arithmetic.md",
     "Welcome.md"
   ]

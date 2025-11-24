@@ -1,3 +1,6 @@
+---
+title: IO
+---
 The standard way to do IO is to use `cin` and `cout`. `cin` reads whitespace-separated data, including tabs (`\t`) and newlines (`\n`), from standard input.
 
 Some judges (such as USACO) require doing IO with files. The easiest way to do this is using `freopen`:

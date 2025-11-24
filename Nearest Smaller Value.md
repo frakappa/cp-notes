@@ -1,3 +1,6 @@
+---
+title: Nearest Smaller Value
+---
 Given an array of $n$ elements, we want to find, for each position, the nearest position to its left having a smaller value.
 
 The idea is that we can go through the array from left to right keeping a [monotonic stack](Monotonic%20Stack.md).

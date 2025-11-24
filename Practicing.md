@@ -1,3 +1,6 @@
+---
+title: Practicing
+---
 - During a contest most of the time should be spent on thinking, so practice implementation in order to implement quickly and correctly.
 - Problems should be of the appropriate difficulty: either you should struggle for a while before coming up with a solution, or you miss it slightly and need to check the editorial for some small part.
 - It's fine to "give up" (i.e., read the editorial) as long as you gave yourself enough thinking time (a good baseline is 20 to 30 minutes) and have made several attempts.

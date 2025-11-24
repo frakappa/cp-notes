@@ -1,3 +1,6 @@
+---
+title: Debugging
+---
 - Is [IO](IO.md) correct?
 - Check edge cases.
 - Read the problem statement again.

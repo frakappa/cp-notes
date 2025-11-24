@@ -1,3 +1,6 @@
+---
+title: Integers
+---
 The most common integer type is `int`, which is a **32-bit** type with a value range of $-2^{31} ... 2^{31}-1$ (or about $-2 \cdot 10^{9} ... 2 \cdot 10^{9}$).
 
 If `int` is too small, the **64-bit** type `long long` can be used. It has a value range of $-2^{63} ... 2^{63}-1$ (or about $-9 \cdot 10^{18} ... 9 \cdot 10^{18}$).

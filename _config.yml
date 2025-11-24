@@ -2,3 +2,4 @@ remote_theme: just-the-docs/just-the-docs
 
 nav_enabled: true
 color_scheme: dark
+aux_links_new_tab: false
