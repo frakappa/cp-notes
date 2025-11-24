@@ -1,6 +1,8 @@
 ---
 title: Binary Search
 ---
+# Binary Search
+
 The binary search algorithm allows for quicker search by splitting the search interval into two. Because of this, it runs in $O(\log n)$.
 
 Here we use binary search to find the value $x$ in the array $a$:

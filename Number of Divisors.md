@@ -1,7 +1,9 @@
 ---
 title: Number of Divisors
 ---
-The _divisor_ function function counts the number of divisors of an integer.
+# Number of Divisors
+
+The _divisor function_ counts the number of divisors of an integer.
 
 [Wigert](https://en.wikipedia.org/wiki/Carl_Severin_Wigert) showed that:
 
