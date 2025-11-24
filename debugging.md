@@ -26,4 +26,4 @@ It may be useful to check the value of certain variables/expressions. The follow
 It may also be useful to use `assert(condition)`, to assert that a condition `condition` holds. If it doesn't, the program is terminated with a runtime error.
 
 References:
-- [USACO guide](https://usaco.guide/general/debugging-checklist)
+- [USACO Guide](https://usaco.guide/general/debugging-checklist)
