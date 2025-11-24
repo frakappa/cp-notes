@@ -19,7 +19,7 @@ while (l <= r) {
 }
 ```
 
-More generally, it can be used to identify the position where the value of a boolean function changes. Let $f : \{0, 1, ..., n-1\} \to \{0, 1\}$ be a **monotonic** function (i.e., $f(0) \le f(1) \le ... \le f(n-1)$.) We can use binary search to find the "transition point" where $f$ goes from $0$ to $1$. In fact: if we look at the current position and the value is $0$, because of the monotonicity of the function we know that the transition point must be to the right; if we look at the current position and the value is $1$, because of the monotonicity of the function we know that the transition point must be to the left.
+More generally, it can be used to identify the position where the value of a boolean function changes. Let $f : \lbrace 0, 1, ..., n-1 \rbrace \to \lbrace 0, 1 \rbrace$ be a **monotonic** function (i.e., $f(0) \le f(1) \le ... \le f(n-1)$.) We can use binary search to find the "transition point" where $f$ goes from $0$ to $1$. In fact: if we look at the current position and the value is $0$, because of the monotonicity of the function we know that the transition point must be to the right; if we look at the current position and the value is $1$, because of the monotonicity of the function we know that the transition point must be to the left.
 
 ```cpp
 int l = 0, r = n-1;
